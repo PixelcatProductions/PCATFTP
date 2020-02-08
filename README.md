@@ -10,3 +10,7 @@ PCATFTP is an anonymous FTP server which means that no credentials a required (a
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 https://github.com/PixelcatProductions/PCATFTP
+
+## Sync
+
+This repository syncs automatially on an hourly basis.
