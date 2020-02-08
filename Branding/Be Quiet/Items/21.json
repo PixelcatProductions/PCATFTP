@@ -1,0 +1,24 @@
+{
+	"appid": 650580,
+	"items": [{
+		"itemdefid": "21",
+		"type": "item",
+		"display_type": "Crate",
+		"name": "MTF Supply Crate",
+		"quantity": 1,
+		"description": "Supplies from the Military Task Force!",
+		"icon_url": "https://cdn.justinback.com/f/d/mKJnOpgGUnQwLYa37h25ch9vsqrYcLsfaglwVF8R5QQbTAUjC4/kliM0pc70KYRek1IILpEtIBWTMg2QTzRPPny9FEX21.png",
+		"icon_url_large": "https://cdn.justinback.com/f/d/mKJnOpgGUnQwLYa37h25ch9vsqrYcLsfaglwVF8R5QQbTAUjC4/kliM0pc70KYRek1IILpEtIBWTMg2QTzRPPny9FEX21.png",
+		"name_color": "1;ffd700",
+		"price": "1;VLV25",
+		"promo": "manual",
+		"tags": "crate:mtf",
+		"tradable": true,
+		"marketable": true,
+		"commodity": false,
+		"drop_interval": 0,
+		"drop_max_per_window": 0,
+		"item_quality": "2",
+		"item_slot": "Crate"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	"appid": 650580,
+	"items": [{
+		"itemdefid": "22",
+		"type": "item",
+		"display_type": "Special",
+		"name": "Harissac",
+		"quantity": 1,
+		"description": "[code][color=red]Note: Partner of Pixelcat Productions [/color][/code]",
+		"icon_url": "https://cdn.pixelcatproductions.net/f/p/2dbdf7148edce7699beefbbf2e93d7002ce4970220f2b38e0da5d928eeb46a64f8216f7167bbff268aa59c88ada57d29622f/6JmJRiC.png",
+		"icon_url_large": "https://cdn.pixelcatproductions.net/f/p/2dbdf7148edce7699beefbbf2e93d7002ce4970220f2b38e0da5d928eeb46a64f8216f7167bbff268aa59c88ada57d29622f/6JmJRiC.png",
+		"name_color": "1;d56bff",
+		"promo": "manual",
+		"tags": "special:publisher;rarity:unobtainable",
+		"tradable": false,
+		"marketable": false,
+		"commodity": false,
+		"drop_interval": 0,
+		"drop_max_per_window": 0
+	}]
+}

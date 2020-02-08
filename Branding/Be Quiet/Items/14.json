@@ -1,0 +1,19 @@
+{
+	"appid": 650580,
+	"items": [{
+		"itemdefid": 14,
+		"type": "Item",
+		"name": "Bloody Flashlight",
+		"description": "Is it red or... blood?",
+		"promo": "manual",
+		"tags": "rarity:common",
+		"price": "1;VLV25",
+		"icon_url": "https://i.imgur.com/RSKMggN.png",
+		"icon_url_large": "https://i.imgur.com/RSKMggN.png",
+		"tradable": true,
+		"marketable": true,
+		"name_color": "1;D3D3D3",
+		"item_slot": "Flashlight",
+		"display_type": "Flashlight"
+	}]
+}

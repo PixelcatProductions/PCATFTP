@@ -1,0 +1,23 @@
+{
+	"appid": 650580,
+	"items": [{
+		"itemdefid": "18",
+		"type": "item",
+		"display_type": "Special",
+		"name": "Alpha Tester",
+		"quantity": 1,
+		"description": "One of the first testers of Be Quiet! Only 10 Items of this have been given out.",
+		"icon_url": "https://cdn.justinback.com/f/d/k0ZHuFoLdW5BY84r53XtjQE2foMymxvb6dXTYVYyhoOrV5V8HL/xneI3AB7F6KqOUMBojPbwOAzc86z5bYnBhj6Yjto18.png",
+		"icon_url_large": "https://cdn.justinback.com/f/d/k0ZHuFoLdW5BY84r53XtjQE2foMymxvb6dXTYVYyhoOrV5V8HL/xneI3AB7F6KqOUMBojPbwOAzc86z5bYnBhj6Yjto18.png",
+		"name_color": "1;ffd700",
+		"promo": "manual",
+		"tags": "rarity:unobtainable",
+		"tradable": false,
+		"marketable": false,
+		"commodity": false,
+		"drop_interval": 0,
+		"drop_max_per_window": 0,
+		"item_quality": "4",
+		"item_slot": "Special"
+	}]
+}

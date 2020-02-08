@@ -1,0 +1,23 @@
+{
+	"appid": 650580,
+	"items": [{
+		"itemdefid": "19",
+		"type": "item",
+		"display_type": "Special",
+		"name": "Evil Weasel",
+		"quantity": 0,
+		"description": "Shrink the weasel and put it in the window!",
+		"icon_url": "https://i.imgur.com/7XxbyL0.png",
+		"icon_url_large": "https://i.imgur.com/7XxbyL0.png",
+		"name_color": "1;FF0000",
+		"promo": "manual",
+		"tags": "special:developer;rarity:unobtainable",
+		"tradable": false,
+		"marketable": false,
+		"commodity": false,
+		"drop_interval": 0,
+		"drop_max_per_window": 0,
+		"item_quality": "4",
+		"item_slot": "Special"
+	}]
+}

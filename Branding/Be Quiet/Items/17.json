@@ -1,0 +1,24 @@
+{
+	"appid": 650580,
+	"items": [{
+		"itemdefid": "17",
+		"type": "item",
+		"display_type": "Key",
+		"name": "MTF Key",
+		"quantity": 1,
+		"description": "This key is used to open MTF Supply crates",
+		"icon_url": "https://i.imgur.com/WuQq6vP.png",
+		"icon_url_large": "https://i.imgur.com/WuQq6vP.png",
+		"name_color": "1;ffd700",
+		"tags": "crate:mtf",
+		"tradable": true,
+		"marketable": true,
+		"commodity": false,
+		"drop_interval" : 60,
+		"use_drop_window" : "true",
+		"drop_window" : "1440",
+		"drop_max_per_window" : "1",
+		"item_quality": "2",
+		"item_slot": "Key"
+	}]
+}

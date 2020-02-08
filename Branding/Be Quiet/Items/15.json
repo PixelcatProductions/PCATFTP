@@ -1,0 +1,24 @@
+{
+	"appid": 650580,
+	"items": [{
+		"itemdefid": "15",
+		"type": "item",
+		"display_type": "Flashlight",
+		"name": "Green Flashlight",
+		"price": "1;VLV25",
+		"quantity": 0,
+		"description": "Who painted the flashlight green?",
+		"icon_url": "https://i.imgur.com/fr0kmQh.png",
+		"icon_url_large": "https://i.imgur.com/fr0kmQh.png",
+		"name_color": "1;48ff00",
+		"promo": "manual",
+		"tags": "rarity:common",
+		"tradable": true,
+		"marketable": true,
+		"commodity": false,
+		"drop_interval": 0,
+		"drop_max_per_window": 0,
+		"item_quality": "0",
+		"item_slot": "Flashlight"
+	}]
+}
