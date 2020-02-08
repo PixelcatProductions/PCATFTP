@@ -13,4 +13,4 @@ https://github.com/PixelcatProductions/PCATFTP
 
 ## Sync
 
-This repository syncs automatially on an hourly basis.
+This repository syncs automatially on an hourly basis, 24/7.
