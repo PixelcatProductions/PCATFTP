@@ -1,0 +1,41 @@
+#!/bin/bash
+
+echo "Updating package cache"
+
+apt-get update
+
+arch=$(uname -m)
+
+echo "Installing curl, sudo, xmlstarlet, dbus, openssl, pv and python"
+
+apt-get -y install curl sudo xmlstarlet dbus openssl python pv
+
+echo "Getting version..."
+
+Exists=$(curl -o /dev/null --silent --head --write-out '%{http_code}\n'  "https://ftp.prod-eu-west.pixelcatproductions.net/KDMs/pcatkdm/vf/release_$arch.txt")
+
+if [ $Exists != "200" ]; then
+	echo "Sorry $arch is not supported yet!"
+	exit 1
+fi
+
+Version=$(curl https://ftp.prod-eu-west.pixelcatproductions.net/KDMs/pcatkdm/vf/release_$arch.txt)
+
+
+echo "Downloading latest binary $Version"
+
+curl $Version -o pcatkdm
+
+if [ -f "/usr/bin/pcattools" ]; then
+	echo "Old binary found, removing"
+	rm "/usr/bin/pcattools"
+fi
+
+echo "CHModding binary"
+
+chmod +x pcatkdm
+
+echo "Installing binary to /usr/bin"
+install pcatkdm /usr/bin
+rm pcatkdm
+pcatkdm
